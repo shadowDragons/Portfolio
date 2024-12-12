@@ -25,7 +25,7 @@
 
 ### 在 Vercel 上部署
 
-[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shadowDragons/junexus-portfolio)
+[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shadowDragons/portfolio)
 
 ### 本地开发
 

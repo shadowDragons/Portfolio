@@ -26,7 +26,7 @@ Visit [https://byte.ink](https://byte.ink) to see the live demo.
 
 ### Deploy on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shadowDragons/junexus-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shadowDragons/portfolio)
 
 ### Local Development
 
