@@ -46,7 +46,7 @@ yarn install
 pnpm install
 ```
 
-3. 创建环境变量文件
+3. 创建环 ��� 变量文件
 
 ```bash
 cp .env.example .env
@@ -114,3 +114,13 @@ Junexus ([https://byte.ink](https://byte.ink))
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [next-intl](https://next-intl-docs.vercel.app/)
+
+## 支持项目
+
+如果你觉得我的工作对你有帮助，可以考虑支持我：
+
+<a href="https://byte.ink/zh/sponsor" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+</a>
+
+MIT License © 2024-PRESENT [Junexus](https://github.com/shadowDragons)

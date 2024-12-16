@@ -115,3 +115,13 @@ Junexus ([https://byte.ink](https://byte.ink))
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [next-intl](https://next-intl-docs.vercel.app/)
+
+## Support
+
+If you find my work helpful and would like to support me, you can:
+
+<a href="https://byte.ink/en/sponsor" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+</a>
+
+MIT License © 2024-PRESENT [Junexus](https://github.com/shadowDragons)
