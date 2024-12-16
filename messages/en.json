@@ -42,5 +42,9 @@
       "title": "Byte Online Tools Site",
       "description": "An online tool site specifically built for developers, containing various practical tools such as code formatting, online translation, time conversion, and more."
     }
+  },
+  "Sponsor": {
+    "heading": "Support My Work",
+    "description": "I sincerely thank the wonderful people who support my open source work. Your support helps me continue creating and maintaining open source projects."
   }
 }
