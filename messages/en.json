@@ -4,7 +4,7 @@
     "about": "Go to the about page"
   },
   "Hero": {
-    "greeting": "Hi I am",
+    "greeting": "Hi👋 I am",
     "name": "Junexus ."
   },
   "Navbar": {
@@ -13,7 +13,7 @@
     "about": "About",
     "projects": "Projects",
     "contact": "Contact",
-    "greeting": "Hello👋",
+    "greeting": "Hi👋",
     "language": {
       "en": "English",
       "zh": "中文 (Chinese)"
