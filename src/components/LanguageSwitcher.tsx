@@ -5,7 +5,7 @@ import { useLocale, useTranslations } from 'next-intl'
 import { useTransition } from 'react'
 
 const LanguageSwitcher = () => {
-  const t = useTranslations('Navbar') // 使用 Navbar 的翻译
+  const t = useTranslations('Navbar') // Use translations from Navbar namespace
   const locale = useLocale()
   const router = useRouter()
   const pathname = usePathname()
